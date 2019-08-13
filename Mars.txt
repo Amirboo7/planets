@@ -1,1 +1,1 @@
-$ git commit -m "Start notes on Mars as a base"
+ "Stvrciaeriucjaeiufj   art notes on Mars as a base"
